@@ -1,0 +1,20 @@
+John|43|123 Apple Street|514 234 7654
+Katya| 26|49 Queen Mary Road|514 234 7654
+Ahmad|91|1888 Pepper Lane|
+A||123 guy street|438 456 7891
+B|12| 143 rue guy|247 879 1238
+C|||
+Angus|50|4330 Reserve St|5148288538
+|46||438 238 6254
+Siena|87|2449 Bridgeport Rd|514 500 6146
+Ross||3507 99th St|
+||4758 Queen Elizabeth Boulevard|
+|23|2464 Cordova Street
+Karen|56|3250 Roger Street|250 760 4104
+James|||
+|65|727 Goyeau Ave|519 564 9816
+Mildred|8|2596 Manitoba Street|705 477 1229
+|17|2690 Charing Cross Rd
+Donna|66|419 Port Washington Road|403 687 4014
+|58||
+Tracy|||416 290 5333
